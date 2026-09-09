@@ -1,14 +1,14 @@
 {
-  "pins" : [
+  "pins": [
     {
-      "identity" : "session-replica-kit",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/rajatslakhina/session-replica-kit.git",
-      "state" : {
-        "revision" : "fe864142ee665524012e337221fdd6c232f49874",
-        "version" : "2.0.0"
+      "identity": "session-replica-kit",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/rajatslakhina/session-replica-kit.git",
+      "state": {
+        "revision": "2bc2c24bf23c79e5187ffe5b4eb2a7ae28df9247",
+        "version": "2.1.0"
       }
     }
   ],
-  "version" : 2
+  "version": 2
 }
